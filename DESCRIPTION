@@ -5,6 +5,7 @@ Version: 0.1.0
 Authors@R: c(person("Dana","Choi", email = "eunseochoi2019@u.northwestern.edu", role =c("aut", "cre")),
              person("Sophia","Dong", role =c("aut", "cre")),
              person("Kush","Tekriwal", email = "kush.tekriwal@gmail.com", role =c("aut", "cre")))
+Maintainer: Kush Tekriwal <kush.tekriwal@gmail.com>
 Description: This package lets you know whether you are 
     legal to drink in different countries around the world. 
 License: GPL-3
